@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Greg it is nice to meet you. 👋
 
 <!--
 **gs-300/gs-300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
