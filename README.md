@@ -19,8 +19,8 @@ Now I'm bringing that foundation into the security space — targeting **Healthc
 | Credential                           | Status                             |
 | ------------------------------------ | ---------------------------------- |
 | CompTIA Security+                    | ✅ Certified — June 2025           |
-| ISC2 Certified in Cybersecurity (CC) | 🗓️ Exam Scheduled — April 20, 2025 |
-| TryHackMe — Cyber Security 101       | 🔄 In Progress                     |
+| ISC2 Certified in Cybersecurity (CC) | 🗓️ Exam Scheduled                  |
+| TryHackMe — Cyber Security 101       | ✅ Completed                       |
 | TryHackMe — SOC Level 1              | 🔄 In Progress                     |
 | FreeCodeCamp — Web Development       | ✅ Certified                       |
 
