@@ -1,4 +1,4 @@
-# Hey, I'm Greg 👋
+# Hey, I'm Greg👋🏾
 
 **Security+ Certified | Medical Device & Clinical Systems Background | Building toward Healthcare Cybersecurity & SOC Roles**
 
